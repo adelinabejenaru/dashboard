@@ -1,2 +1,5 @@
 hello there
 this is the first new article
+<?php
+echo "This is a new line";
+?>
